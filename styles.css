@@ -1,0 +1,38 @@
+
+
+
+@media only screen and ( max-width:800px) {
+.logo{ 
+    width: 40px !important;
+    margin-left: 5px !important;
+}   
+}
+
+.bg-img1 {
+   
+    min-height: 40vh;
+    background-image: url(images2/image1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #1e3932;
+}
+.bg-img2 {
+   
+    min-height: 60vh;
+    background-image: url(images2/img2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #1e3932;
+}
+.bg-img4 {
+   
+    min-height: 60vh;
+    background-image: url(images2/img3.webp);
+    background-position: center;
+    background-size: cover;
+    background-color: #006241;
+}
+li a{
+    text-decoration: none;
+}
+
